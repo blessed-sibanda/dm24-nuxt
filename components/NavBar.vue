@@ -19,10 +19,12 @@
                 <a href="#header" v-scroll-to="'#header'">Home</a>
               </li>
               <li>
-                <a href="#" v-scroll-to="'#services'">Services</a>
+                <a href="#services" v-scroll-to="'#services'">Services</a>
               </li>
-              <li><a href="#" v-scroll-to="'#projects'">Projects</a></li>
-              <li><a href="#" v-scroll-to="'#contact'">Contact</a></li>
+              <li>
+                <a href="#projects" v-scroll-to="'#projects'">Projects</a>
+              </li>
+              <li><a href="#contact" v-scroll-to="'#contact'">Contact</a></li>
             </ul>
           </nav>
           <!-- .nav-menu -->
