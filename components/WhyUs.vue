@@ -7,7 +7,8 @@
           <div class="content">
             <h3 class="h5">Why Hire Us</h3>
             <p class="h4">
-              We are one of the leading consulting engineers in Southern Africa
+              We are a very passionate and talented team of civil and structural
+              engineers
             </p>
             <a href="#about" class="why-us-btn"
               ><span>about us</span> <i class="bx bx-chevron-right"></i
