@@ -31,30 +31,30 @@ export default {
         href:
           "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       },
-      { rel: "stylesheet", href: "/vendor/bootstrap/css/bootstrap.min.css" },
-      { rel: "stylesheet", href: "/vendor/icofont/icofont.min.css" },
-      { rel: "stylesheet", href: "/vendor/boxicons/css/boxicons.min.css" },
+      { rel: "stylesheet", href: "vendor/bootstrap/css/bootstrap.min.css" },
+      { rel: "stylesheet", href: "vendor/icofont/icofont.min.css" },
+      { rel: "stylesheet", href: "vendor/boxicons/css/boxicons.min.css" },
       {
         rel: "stylesheet",
-        href: "/vendor/owl.carousel/assets/owl.carousel.min.css"
+        href: "vendor/owl.carousel/assets/owl.carousel.min.css"
       },
-      { rel: "stylesheet", href: "/vendor/remixicon/remixicon.css" },
-      { rel: "stylesheet", href: "/vendor/venobox/venobox.css" },
-      { rel: "stylesheet", href: "/vendor/aos/aos.css" },
-      { rel: "stylesheet", href: "/css/main.css" }
+      { rel: "stylesheet", href: "vendor/remixicon/remixicon.css" },
+      { rel: "stylesheet", href: "vendor/venobox/venobox.css" },
+      { rel: "stylesheet", href: "vendor/aos/aos.css" },
+      { rel: "stylesheet", href: "css/main.css" }
     ],
     script: [
-      { src: "/vendor/jquery/jquery.min.js" },
-      { src: "/vendor/bootstrap/js/bootstrap.bundle.min.js" },
-      { src: "/vendor/jquery.easing/jquery.easing.min.js" },
-      { src: "/vendor/owl.carousel/owl.carousel.min.js" },
-      { src: "/vendor/waypoints/jquery.waypoints.min.js" },
-      { src: "/vendor/isotope-layout/isotope.pkgd.min.js" },
-      { src: "/vendor/venobox/venobox.min.js" },
-      { src: "/vendor/aos/aos.js" },
-      { src: "/js/main.js" },
-      { src: "/js/contact_form.js" },
-      { src: "/js/modal.js" }
+      { src: "vendor/jquery/jquery.min.js" },
+      { src: "vendor/bootstrap/js/bootstrap.bundle.min.js" },
+      { src: "vendor/jquery.easing/jquery.easing.min.js" },
+      { src: "vendor/owl.carousel/owl.carousel.min.js" },
+      { src: "vendor/waypoints/jquery.waypoints.min.js" },
+      { src: "vendor/isotope-layout/isotope.pkgd.min.js" },
+      { src: "vendor/venobox/venobox.min.js" },
+      { src: "vendor/aos/aos.js" },
+      { src: "js/main.js" },
+      { src: "js/contact_form.js" },
+      { src: "js/modal.js" }
     ]
   },
 
