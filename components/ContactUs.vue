@@ -6,9 +6,10 @@
         <div class="row d-flex justify-content-center">
           <div class="col-md-7">
             <p>
-              Are you looking for robust and affordable structural designs in a
-              limited time period? <span>Reach out</span> to us using the
-              details below, or by filling the following form.
+              Do you have a project that would benefit from a great team of
+              Structural Engineers & Designers?,
+              <span class="font-weight-bold">Reach out</span> to us using the
+              details below, or by filling the following form
             </p>
           </div>
         </div>
