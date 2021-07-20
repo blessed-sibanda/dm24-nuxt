@@ -82,7 +82,7 @@ export default {
           category: {
             name: "Structural Design"
           },
-          image: "/img/portfolio/s1.jpg"
+          image: "img/portfolio/s1.jpg"
         },
         {
           id: 2,
@@ -90,7 +90,7 @@ export default {
           category: {
             name: "Structural Design"
           },
-          image: "/img/portfolio/s3.jpg"
+          image: "img/portfolio/s3.jpg"
         },
         {
           id: 3,
@@ -98,7 +98,7 @@ export default {
           category: {
             name: "Structural Design"
           },
-          image: "/img/portfolio/s6.jpg"
+          image: "img/portfolio/s6.jpg"
         },
         {
           id: 4,
@@ -106,7 +106,7 @@ export default {
           category: {
             name: "Construction"
           },
-          image: "/img/portfolio/s2.jpg"
+          image: "img/portfolio/s2.jpg"
         }
       ]
     };

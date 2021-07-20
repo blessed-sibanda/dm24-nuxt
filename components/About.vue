@@ -22,7 +22,7 @@
             <div class="row">
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="member">
-                  <img src="/img/team/tino.png" alt="" />
+                  <img src="img/team/tino.png" alt="" />
                   <h4>Tinotenda Berejena</h4>
                   <span>Engineer</span>
                   <p>B.Eng Civil & Water Engineering</p>
